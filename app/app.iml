@@ -86,11 +86,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 15 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="gtranslateapi-1.0" level="project" />
     <orderEntry type="library" exported="" name="shineware-ds-1.0" level="project" />
-    <orderEntry type="library" exported="" name="jl1.0" level="project" />
     <orderEntry type="library" exported="" name="komoran-2.4-e" level="project" />
-    <orderEntry type="library" exported="" name="json-simple-1.1.1" level="project" />
     <orderEntry type="library" exported="" name="shineware-common-2.0" level="project" />
   </component>
 </module>

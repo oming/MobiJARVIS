@@ -22,10 +22,7 @@ android {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile files('libs/json-simple/json-simple-1.1.1.jar')
     compile files('libs/komoran/komoran-2.4-e.jar')
     compile files('libs/komoran/shineware-common-2.0.jar')
     compile files('libs/komoran/shineware-ds-1.0.jar')
-    compile files('libs/translate-to-text/gtranslateapi-1.0.jar')
-    compile files('libs/translate-to-text/jl1.0.jar')
 }
