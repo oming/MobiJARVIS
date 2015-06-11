@@ -20,8 +20,6 @@ public class MainActivity extends Activity {
     TextView tv;
 
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
